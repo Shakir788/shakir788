@@ -1,34 +1,95 @@
-# Hi 👋, I'm Mohammad
+# 👋 Hi, I'm Shakir Salmani
 
-💻 **Software Developer** | 🎨 **Graphic Designer** | ✏️ **Sketch Artist** | 💄 **Makeup Artist**  
-🚀 Currently building **[LumiNis AI](https://github.com/Shakir788/LumiNisAI)** & **[MariaMind](https://github.com/Shakir788/MariaMind)**  
+💻 **Full Stack Developer | Next.js | TypeScript | Python**
 
----
-
-### 🚀 About Me
-- 🌍 From **Dehradoon, India**
-- 🏥 Work as a **freelacer**
-- 🔥 Calm & caring, but super passionate about coding & creativity
-- ✨ Turning ideas into **AI projects** that help people
+I build powerful digital systems for real businesses — from ERP platforms to brand websites.
+My focus is on creating **fast, scalable, and practical solutions** that help businesses grow.
 
 ---
 
-### 🛠️ Skills & Tools
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks/Libs:** Streamlit, Flask, Tailwind  
-- **Design Tools:** Photoshop, Illustrator  
-- **Others:** Git, VS Code  
+## 🚀 What I Do
+
+* 🏢 Build **ERP & Business Management Systems**
+* 🌐 Develop **Modern Web Applications**
+* 🧠 Create **AI-powered tools**
+* 📈 Design **business-focused digital platforms**
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakir788&show_icons=true&theme=radical)  
+## 🛠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakir788&layout=compact&theme=radical)  
+**Frontend**
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* Prisma
+* PostgreSQL
+
+**Other Skills**
+
+* Python
+* API Integration
+* System Architecture
+* UI/UX Design
 
 ---
 
-### 🌐 Connect with Me
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📷 [Instagram](#)  
+## 📂 Featured Projects
+
+### 🏢 SPE ERP System
+
+A full-stack ERP & logistics management platform built with Next.js, Prisma, and PostgreSQL.
+
+Features:
+
+* Role-based access control
+* Live GPS tracking
+* Real-time order & inventory management
+* Admin dashboard
+
+---
+
+### 👗 Amina Clothing Brand
+
+Modern fashion brand website designed for international customers.
+
+Features:
+
+* Multi-language support
+* Fast performance
+* Elegant UI design
+
+---
+
+### 💇 Hairways Salon Website
+
+A stylish website built for a real salon business with modern UI.
+
+Features:
+
+* Service showcase
+* Business branding
+* Responsive design
+
+---
+
+## 📊 GitHub Stats
+
+![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakir788\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email: **[salmanim281@gmail.com](mailto:salmanim281@gmail.com)**
+📱 WhatsApp: **+91 78897 09840**
+
+---
+
+⭐ *Always building, always learning.*
